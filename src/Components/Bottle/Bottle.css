@@ -1,0 +1,28 @@
+.bottle{
+    border: 2px solid seagreen;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(253, 252, 252);
+    
+
+}
+
+.bottle img{
+    width: 200px;
+    border-radius: 15px;
+}
+
+.bottle p{
+font-weight: bold;
+}
+
+.pricePurchase{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-primary{
+    background-color: forestgreen;
+    color: white;
+    height: 45px;
+}

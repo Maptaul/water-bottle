@@ -1,0 +1,27 @@
+.cart-container img{
+ width: 100px;
+ margin-right: 5px;
+ border-radius: 15px;
+ 
+}
+
+.cart-parent{
+   border: 2px solid orange;
+   margin-bottom: 20px; 
+   border-radius: 15px;
+   
+}
+
+.cart-parentItems{
+    align-items: center;
+}   
+
+
+.remove-item{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: none;
+
+}
